@@ -1,0 +1,2 @@
+- Die Alpha Strahlung löst ein Alpha-Teilchen von sich ab.
+-
