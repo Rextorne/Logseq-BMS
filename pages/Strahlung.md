@@ -1,0 +1,26 @@
+## Definition
+id:: 6624ee74-b9af-46f1-a96d-70be09c57365
+	- Kleinste Teilchen tragen elektrische Ladung. Schwingende elektrische Ladungen senden **elektromagnetische Wellen** aus. Diese breiten sich mit Lichtgeschwindigkeit aus. Diese Strahlung wird dann wieder von anderen Teilchen absorbiert.
+	- ==Kurzwellige== Stralung ist **energiereicher** und ist somit ==schädlicher==.
+-
+- ## Beispiel Wärmestrahlung
+	- ![](file:///home/nru/NW-Zusammenfassung-ohne-ue/Naturwissenschaften%2032ad305d2f4e41ef863731902f262950/Chemie%2007e63c081bbf447e8b54888b8dc7b72f/Pruefung%201%206d9196a776cd4b509cf57589adaa5234/Untitled%201.png)
+-
+-
+- ## Radioaktivität
+	- ### Alpha-Strahlen
+	- ### Beta-Strahlen
+	- ### Gamma-Strahlen
+-
+- ## UV
+	- ### UV-A
+		- Langwellig
+		- tiefeindringend in die Haut
+		- vorzeitige Hautalterung und langfristige schäden
+		- dringt bis zur Erdoberfläche vor
+	- ### UV-B
+	- Mittelwellige
+	-
+	-
+	- ### UV-C
+	-

@@ -1,0 +1,1 @@
+- Ein Katalysator ist ein Medium welches chemische Reaktionsvorgänge begünstigt.

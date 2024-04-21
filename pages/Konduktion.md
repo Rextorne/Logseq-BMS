@@ -1,0 +1,1 @@
+- Übertragung der kinetischen Energie durch elastische Stösse von benachbarten Teilchen

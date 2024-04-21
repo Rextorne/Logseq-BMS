@@ -1,0 +1,25 @@
+## Hauptursachen
+	- **Übernutzung natürlicher Ressourcen**: Die übermäßige Nutzung von Ressourcen wie Holz, Fisch, Wildtieren und Wasser führt zu einem starken Rückgang vieler Arten, sowohl direkt durch Überjagung oder Überfischung als auch indirekt durch die Veränderung von Lebensräumen und Ökosystemdienstleistungen.
+	- **Umweltverschmutzung**: Verschmutzung durch Chemikalien, Abfälle, Pestizide, Düngemittel und Schadstoffe beeinträchtigt die Gesundheit von Ökosystemen und den Lebensraum vieler Arten. Insbesondere der Einsatz von Pestiziden kann direkt viele Insektenarten gefährden.
+	- **Klimawandel**: Der Klimawandel verändert die Temperaturen, Niederschlagsmuster und die Verfügbarkeit von Lebensräumen, was sich negativ auf die Verbreitung und das Überleben vieler Arten auswirkt. Einige Arten können sich nicht schnell genug an die veränderten Bedingungen anpassen oder migrieren.
+	- **Lärm und Störungen**: Lärm, sei es durch Verkehr, Industrie oder menschliche Aktivitäten, kann Lebensräume stören und die Kommunikation sowie das Verhalten von Tieren beeinträchtigen. Dies kann zu Stress führen, der sich negativ auf die Fortpflanzung, das Nahrungsverhalten und das Überleben von Arten auswirken kann.
+	- **Pestizide & hormonaktive Substanzen**: Der Einsatz von Pestiziden in der Landwirtschaft und anderen Bereichen kann direkte Auswirkungen auf die Artenvielfalt haben, indem sie nicht nur Zielorganismen schädigen, sondern auch andere Organismen, die nicht Ziel der Bekämpfung sind. Hormonaktive Substanzen, die in bestimmten Chemikalien enthalten sind, können das Fortpflanzungsverhalten von Tieren beeinträchtigen und zu einer Reduzierung der Populationen führen.
+	- **Stickstoffeintrag**: Der Eintrag von Stickstoff aus **Düngemitteln** und industriellen Quellen in Ökosysteme kann das **Gleichgewicht** der Nährstoffe stören und das Wachstum bestimmter Pflanzenarten **begünstigen**, während es andere **unterdrückt**. Dies kann zu Veränderungen in der Artenzusammensetzung führen und empfindliche Arten benachteiligen.
+	- **Invasive gebietsfremde Arten**: Nicht heimische Arten, die in ein neues Ökosystem eingeführt werden, können die einheimischen Arten verdrängen und die natürlichen ökologischen Prozesse stören. Sie können Krankheiten einschleppen, Nahrungsketten beeinträchtigen und den Lebensraum für einheimische Arten verändern.
+	- **Lichtverschmutzung**: Künstliche Beleuchtung in städtischen Gebieten und anderen menschlichen Siedlungen kann den natürlichen Tag-Nacht-Rhythmus stören und das Verhalten von nachtaktiven Tieren beeinträchtigen. Dies kann Migration, Nahrungssuche und Fortpflanzungsverhalten beeinflussen und letztendlich zu einer Verringerung der Artenvielfalt führen.
+	- **Zerstörung & Fragmentierung der Lebensräume**: Die Umwandlung von natürlichen Lebensräumen in landwirtschaftlich genutzte Flächen, städtische Gebiete und andere menschliche Siedlungen führt zur Zerstörung von Lebensräumen. Die Fragmentierung von Lebensräumen durch Straßenbau, Siedlungsentwicklung und andere Infrastrukturprojekte kann die Wanderungsmuster von Tieren unterbrechen und die genetische Vielfalt innerhalb von Populationen verringern.
+	- **Intensivierung der Landwirtschaft**: Die Intensivierung der landwirtschaftlichen Praktiken, einschließlich Monokulturen, Einsatz von Pestiziden und mechanisierte Bewirtschaftung, kann zu einem Verlust an Lebensraumvielfalt, Bodenverschlechterung und Reduzierung von Pflanzen- und Tierarten führen.
+	-
+- ## Detaillierte Ausführungen verschiedener Gebiete
+- [[Biodiversitätsverlust Moore]]
+- [[Biodiversitätsverlust Agrarland]]
+- [[Biodiversitätsverlust Wald]]
+- [[Biodiversitätsverlust alpinen und subalpinen Raum]]
+- [[Biodiversitätsverlust Siedlungen]]
+- ![Zustand Biodiversität CH.pdf](../assets/Zustand_Biodiversität_CH_1713688966679_0.pdf)
+-
+- ## Spezifischer Fall: Alpenrhein
+- {{embed [[Fischarmut des Alpenrheins]]}}
+-
+- **Referenzen:**
+- [[Rote Liste der Tierarten]]

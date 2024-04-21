@@ -1,0 +1,16 @@
+- Mangelnde Besucherlenklung - Vertramplung
+- Nutzung, die dem Standort nicht angemessen sind
+- Nutzungsaufgabe und Vergbuschung/Einwanderung
+-
+-
+- Seitlicher Stickstoffeintrag aus angrenzenden Kulturen
+- Fehlende Nährstoffpufferzonen
+- Stickstoffeintrag über Wasserzuflüsse
+- Stickstoffeintrag über die Atmosphäre
+- Eigendüngung durch Torfmineralisierung
+- Gewinn von Torf
+-
+-
+- Grossflächige Trockenlegung und Umwandlung von Kulturland
+- Anhaltende Entwässerung
+- Fehlende hydrologische der Pufferzonen

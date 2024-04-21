@@ -1,0 +1,2 @@
+- Kleinste Teilchen tragen elektrische Ladung. Schwingende elektrische Ladungen senden **elektromagnetische Wellen** aus. Diese breiten sich mit Lichtgeschwindigkeit aus und bringen weit entfernte Teilchen in Schwingung.
+- ![](file:///home/nru/NW-Zusammenfassung-ohne-ue/Naturwissenschaften%2032ad305d2f4e41ef863731902f262950/Chemie%2007e63c081bbf447e8b54888b8dc7b72f/Pruefung%201%206d9196a776cd4b509cf57589adaa5234/Untitled%201.png)

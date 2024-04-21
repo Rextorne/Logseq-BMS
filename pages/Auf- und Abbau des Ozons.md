@@ -1,0 +1,6 @@
+- ![Bildung des Ozons](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnX7N48XAdVBlWLSOHepuC8ObW8RBu32F6VFGzsy9zFg&s){:height 197, :width 459}
+- Das O2-Molekül absorbiert die UV-C Strahlung und das Sauerstoff-Radikal kann sich dann zu O3 bilden mit einem weiteren O2-Molekül. Das Ozon absorbiert dann die UV-B Strahlung und spaltet sich wieder zu einem O2 und O auf.
+-
+- ## Einfluss von FCKW
+	- FCKW ist ein Mittel, welches mittlerweile verboten ist. Es wurde früher in Sprühdosen als Treibgas oder als Kühlmittel verwendet.
+	- FCKW wirkt sich als [[Katalysator]] auf den Abbau des Ozons aus. Das Chlor-Radikal hat den Abbau des Ozons massiv erhöht, wodurch ein "Ozonloch" entstanden ist.

@@ -1,0 +1,6 @@
+- Zu den Treibhausgasen gehören:
+	- H2O (dampfförmig)
+	- Kohlenstoffdioxid (CO2)
+	- Ozon (O3)
+	- Lachgas (N2O)
+	- Methan (CH4)

@@ -1,0 +1,8 @@
+- Übernutzung der Alpweiden
+- Flächenverbrauch durch Energieproduktion
+- Freizeitaktivitäten abseits von Wegen und Pisten
+- Skipistenplanierung
+- Kunstschnee
+- Klimawandel
+- Nutzungsaufgabe
+- Stickstoffeintrag über die Luft

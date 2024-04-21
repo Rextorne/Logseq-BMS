@@ -1,0 +1,26 @@
+## Definition
+	- Biodiversität bezieht sich auf die Vielfalt des Lebens auf der Erde, sowohl in ökologischer als auch in genetischer Hinsicht. Sie umfasst die Vielfalt der Arten, die genetische Vielfalt innerhalb jeder Art und die Vielfalt der Lebensräume und Ökosysteme, in denen diese Arten existieren. Biodiversität ist von entscheidender Bedeutung für das Funktionieren von Ökosystemen, die Stabilität der Umwelt und das Wohlergehen der Menschheit.
+	-
+	- ## Hauptkategorien
+		- 1. **Artenvielfalt**: Dies bezieht sich auf die Vielfalt der verschiedenen Arten innerhalb eines bestimmten Lebensraums oder einer bestimmten Region. Es umfasst sowohl sichtbare Organismen wie Pflanzen, Tiere und Pilze als auch unsichtbare Organismen wie Bakterien und Archaeen.
+		- 2. **Genetische Vielfalt**: Diese bezieht sich auf die genetische Variation innerhalb einer Art. Sie umfasst die Vielfalt der Gene, Allele und Genotypen innerhalb einer Population oder einer Art. Eine hohe genetische Vielfalt innerhalb einer Art ermöglicht es ihr, sich an veränderte Umweltbedingungen anzupassen und zu überleben.
+		- 3. **Ökosystemvielfalt**: Diese bezieht sich auf die Vielfalt der verschiedenen Ökosysteme oder Lebensräume auf der Erde. Ökosysteme können verschiedene Arten von Lebensräumen umfassen, wie Wälder, Wiesen, Feuchtgebiete, Wüsten, Ozeane und vieles mehr. Jedes Ökosystem bietet eine einzigartige Kombination von abiotischen Faktoren wie Klima, Bodentyp und Topographie sowie biotischen Faktoren wie Pflanzen, Tieren und Mikroorganismen.
+		-
+	- Die Erhaltung der Biodiversität auf allen diesen Organisationsstufen ist von entscheidender Bedeutung, um das Gleichgewicht der Ökosysteme aufrechtzuerhalten und die nachhaltige Nutzung der natürlichen Ressourcen zu gewährleisten.
+-
+- ## [[Massenaussterben von Arten]]
+- {{embed ((6624e68f-7416-4920-930d-304a1fa25e5f))}}
+- Hier sind einige Gründe, warum das derzeitige Artensterben als Massenaussterben angesehen wird:
+- {{embed ((6624e686-2c4f-4ed7-845e-3f6470105db4))}}
+-
+- ## [[Rote Liste der Tierarten]]
+- {{embed [[Rote Liste der Tierarten]]}}
+-
+- ## [[Biodiversitätsverlust]]
+- {{embed [[Biodiversitätsverlust]]}}
+-
+- ## Gründe für den Schutz der Biodiversität
+- ![HOTSPOT 41_Biodiversität_Argumente.pdf](../assets/HOTSPOT_41_Biodiversität_Argumente-seiten_1713693642835_0.pdf)
+- {{embed ((6624e3d3-fa27-44e7-9fc1-ab36d672ff9c))}}
+-
+-

@@ -1,0 +1,3 @@
+- Schwall/Sunkbetrieb, Fortpflanzung, Nahrungsverlust,
+- Lebensraum der Insektenlarven eingeschrenkt, segement ablagerungen und abtragung.
+- Leichgruben haben keine konstante Wasserfluss und segementablagerungen welche das leichen beinträchtigen.

@@ -1,0 +1,16 @@
+- Aufteilung in **potenziell gefährdet** bis **ausgestorben**
+-
+- ## Voraussetzung
+- **Daten; Wissen, Aufkommenshäufigkeit über Zeit, was gefärdet diese Tiere, was sind die Ursachen.**
+-
+- ## Eigenschaften
+- **Bewertung von Gefährdungsstatus**: Rote Listen sind Instrumente zur Bewertung des Gefährdungsstatus von Arten und Ökosystemen.
+- **Kategorien und Kriterien**: Sie verwenden Kategorien und Kriterien, um den Grad der Bedrohung einer Art zu bestimmen, z. B. vom Aussterben bedroht, stark gefährdet, gefährdet, verletzlich usw.
+- **Wissenschaftliche Grundlage**: Die Bewertung basiert auf wissenschaftlichen Daten und Informationen zu Populationsgrößen, Verbreitungsgebieten, Lebensraumveränderungen, Bedrohungen und anderen relevanten Faktoren.
+- **Schlüssel für den Naturschutz**: Rote Listen dienen als Schlüsselwerkzeuge für den Naturschutz, indem sie Prioritäten für den Schutz gefährdeter Arten und Lebensräume festlegen.
+- **Politische und rechtliche Bedeutung**: Die Ergebnisse der Roten Listen beeinflussen politische Entscheidungen und Maßnahmen zum Schutz der Artenvielfalt und können rechtliche Schutzmaßnahmen für gefährdete Arten auslösen.
+- **Monitoring und Management**: Sie ermöglichen ein Monitoring des Zustands gefährdeter Arten und Ökosysteme sowie die Entwicklung von Managementplänen zur Erhaltung und Wiederherstellung gefährdeter Populationen.
+- **Internationale Zusammenarbeit**: Rote Listen werden oft auf internationaler Ebene erstellt und dienen als Grundlage für den Austausch von Informationen und die Zusammenarbeit im Naturschutz zwischen verschiedenen Ländern und Organisationen.
+-
+- ## Beispiele
+- [[gefährdete Artengruppen]]
